@@ -1,0 +1,122 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving. Kids can build anything they imagine, from houses to vehicles.",
+    "pictureURL": "https://i.ibb.co.com/671LhVPg/Bricks.jpg",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Barbie Dreamhouse",
+    "sellerName": "Kidzly Store",
+    "sellerEmail": "info@kidzly.com",
+    "price": 129.99,
+    "rating": 4.8,
+    "availableQuantity": 40,
+    "description": "The Barbie Dreamhouse offers endless imaginative play with multiple rooms, furniture, and accessories to create fun stories every day.",
+    "pictureURL": "https://i.ibb.co.com/n87RzD5k/barbie.jpg",
+    "subCategory": "Dolls & Playsets"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Hot Wheels Mega Garage",
+    "sellerName": "ToyHub BD",
+    "sellerEmail": "sales@toyhubbd.com",
+    "price": 59.99,
+    "rating": 4.6,
+    "availableQuantity": 60,
+    "description": "Race, store, and showcase your favorite Hot Wheels cars in this multi-level Mega Garage with ramps, elevators, and action zones.",
+    "pictureURL": "https://i.ibb.co.com/7dG5KQHr/Hot-Wheels-Mega-Garage.jpg",
+    "subCategory": "Vehicles"
+  },
+  {
+    "toyId": 4,
+    "toyName": "Fisher-Price Laugh & Learn Puppy",
+    "sellerName": "HappyHands Toys",
+    "sellerEmail": "support@happyhands.com",
+    "price": 34.99,
+    "rating": 4.9,
+    "availableQuantity": 90,
+    "description": "A soft, cuddly puppy that teaches letters, numbers, and songs through fun and interactive play for toddlers.",
+    "pictureURL": "https://i.ibb.co.com/VcHyLMNX/Puppy.jpg",
+    "subCategory": "Educational Toys"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Play-Doh 36-Color Pack",
+    "sellerName": "Creative Kids Co.",
+    "sellerEmail": "hello@creativekidsco.com",
+    "price": 29.99,
+    "rating": 4.5,
+    "availableQuantity": 110,
+    "description": "Spark creativity with 36 vibrant Play-Doh colors perfect for shaping, mixing, and molding endless imaginative creations.",
+    "pictureURL": "https://i.ibb.co.com/4gwx43Qd/Play-Doh.jpg",
+    "subCategory": "Art & Craft"
+  },
+  {
+    "toyId": 6,
+    "toyName": "Nerf Elite Blaster",
+    "sellerName": "Funzly World",
+    "sellerEmail": "contact@funzlyworld.com",
+    "price": 39.99,
+    "rating": 4.4,
+    "availableQuantity": 50,
+    "description": "Experience high-performance foam dart battles with this Nerf Elite Blaster featuring rapid-fire action and precision targeting.",
+    "pictureURL": "https://i.ibb.co.com/zTD3wQbh/Blaster.jpg",
+    "subCategory": "Action Toys"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Wooden Train Set",
+    "sellerName": "TinyTown Toys",
+    "sellerEmail": "sales@tinytown.com",
+    "price": 54.99,
+    "rating": 4.8,
+    "availableQuantity": 65,
+    "description": "Classic wooden railway set with colorful trains, tracks, bridges, and stations to inspire endless storytelling play.",
+    "pictureURL": "https://i.ibb.co.com/Gv7HjDJX/Wooden-Train-Set.jpg",
+    "subCategory": "Wooden Toys"
+  },
+  {
+    "toyId": 8,
+    "toyName": "RC Monster Truck",
+    "sellerName": "ZoomPlay",
+    "sellerEmail": "hello@zoomplay.com",
+    "price": 69.99,
+    "rating": 4.6,
+    "availableQuantity": 55,
+    "description": "Conquer any terrain with this durable RC Monster Truck featuring big tires, shock absorbers, and long-lasting battery power.",
+    "pictureURL": "https://i.ibb.co.com/TMWYvGcT/Truck.jpg",
+    "subCategory": "Remote Control"
+  },
+  {
+    "toyId": 9,
+    "toyName": "Melissa & Doug Wooden Puzzles",
+    "sellerName": "Toyberry",
+    "sellerEmail": "contact@toyberry.com",
+    "price": 24.99,
+    "rating": 4,
+    "availableQuantity": 120,
+    "description": "Beautifully crafted wooden puzzles designed to build problem-solving, fine motor skills, and pattern recognition for young minds.",
+    "pictureURL": "https://i.ibb.co.com/zVVPLwHH/Wooden-Puzzles.jpg",
+    "subCategory": "Puzzles"
+  },
+  {
+    "toyId": 10,
+    "toyName": "Stuffed Unicorn Plush",
+    "sellerName": "MagicKidz",
+    "sellerEmail": "info@magickidz.com",
+    "price": 19.99,
+    "rating": 3.8,
+    "availableQuantity": 150,
+    "description": "A soft, huggable unicorn plush with rainbow colors and sparkly details, perfect for cuddles and bedtime dreams.",
+    "pictureURL": "https://i.ibb.co.com/0j5MsgG2/Stuffed-Unicorn-Plush.jpg",
+    "subCategory": "Soft Toys"
+  }
+]
